@@ -19,14 +19,14 @@
 
 ## 💻 Projeto
 
-Projeto com o intuito de simular os conceitos de React, simulando desafios que geralmente são propostos em entrevistas técnicas. Este projeto foi proposto pelo[Fernando](https://www.youtube.com/watch?v=qmZLWBOOfVQ), através do seu canal do Youtube. Neste desafio temos os seguintes requisitos:
+Projeto com o intuito de simular os conceitos de React, simulando desafios que geralmente são propostos em entrevistas técnicas. Este projeto foi proposto pelo [Fernando](https://www.youtube.com/watch?v=qmZLWBOOfVQ), através do seu canal do Youtube. Neste desafio temos os seguintes requisitos:
 
 - O usuário pode clicar em qualquer lugar da página.
 - Deve-se renderizar um pequeno círculo na posição clicada.
 - A cada clique, mantém-se os círculos já criados e renderiza-se um novo.
 - Crie duas funcionalidades para a aplicação:
-    - Desfazer (undo)
-    - Refazer (redo)
+    - Desfazer (undo) - botão fica habilitado apenas quando necessário
+    - Refazer (redo) - botão fica habilitado apenas quando necessário
 
 ## 🚀 Tecnologias
 
